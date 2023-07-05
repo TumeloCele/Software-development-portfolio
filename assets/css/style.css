@@ -1,0 +1,30 @@
+.music-play {
+    width: 300px;
+    margin: 20px;
+}
+
+.player-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#progress-bar {
+    width: 200px;
+    height: 10px;
+    background-color: lightgray;
+    margin: 10px;
+}
+
+#progress {
+    height: 100%;
+    background-color: green;
+    width: 0;
+}
+
+#clocl {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
